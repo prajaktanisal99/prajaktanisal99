@@ -12,7 +12,7 @@ Hi there! I'm **Prajakta**, a passionate software engineer currently pursuing my
 - 💼 **2+ years** of experience as a Software Engineer at **DWS India (Deutsche Bank Group)**
 - 🔍 Currently exploring the **internals of distributed systems** and **cloud-native architectures**
 - 🛠️ Tech Stack:  
-  `Java` | `Spring Boot` | `React.js` | `JavaScript` | `Python` | `Docker` | `Distributed Systems` | `Machine Learning` | `Algorithms`
+  `Java` | `Spring Boot` | `React.js` | `JavaScript` | `Go` | `Python` | `Docker` | `Distributed Systems` | `Machine Learning` | `Algorithms`
 
 ---
 
